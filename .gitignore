@@ -1,0 +1,8 @@
+.entdata
+.entPrueba
+.envPru
+RCV_RCV_17022026081442
+
+*.csv
+*.pyc
+*.parquet
